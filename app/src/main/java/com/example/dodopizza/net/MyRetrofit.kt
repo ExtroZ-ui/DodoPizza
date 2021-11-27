@@ -6,7 +6,7 @@ import java.util.concurrent.locks.ReentrantReadWriteLock
 
 class MyRetrofit {
     fun getRetrofit(): Retrofit = Retrofit.Builder()
-        .baseUrl("http://cinema.areas.su/")
+        .baseUrl("http://mskko2021.mad.hakta.pro/api/")
         .addConverterFactory(GsonConverterFactory.create())
         .build()
 }

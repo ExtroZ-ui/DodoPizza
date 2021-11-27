@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">DodoPizza</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Меню</string>
+    <string name="title_dashboard">Профиль</string>
+    <string name="title_notifications">Новости</string>
 </resources>
